@@ -1,1 +1,1 @@
-mypass = "J0nesB0nes"
+mypass = "never_gonna_tell"
